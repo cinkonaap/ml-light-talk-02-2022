@@ -25,3 +25,11 @@ Simple makefile setup for building and running our docker setup locally.
 ### Data
 
 Taken from https://www.kaggle.com/aleksandrglotov/car-prices-poland?select=Car_Prices_Poland_Kaggle.csv
+
+### Links
+
+- Numpy: https://numpy.org/doc/stable/reference/
+- Pandas: https://pandas.pydata.org/docs/user_guide/index.html
+- Scikit Learn: https://scikit-learn.org/stable/getting_started.html
+- Keras: https://keras.io/getting_started/
+- Seaborn: https://seaborn.pydata.org/

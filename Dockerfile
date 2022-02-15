@@ -4,8 +4,13 @@ FROM python:3.9-slim
 RUN mkdir /app
 WORKDIR /app
 
-COPY requirements.txt /app/
+COPY requirements-jupyter.txt /app/
+RUN pip3 install -r requirements-jupyter.txt
 
+COPY requirements-ml-base.txt /app/
+RUN pip3 install -r requirements-ml-base.txt
+
+COPY requirements.txt /app/
 RUN pip3 install -r requirements.txt
 
 # Tini is used to dockerize jupyter notebook

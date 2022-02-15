@@ -1,0 +1,10 @@
+# base
+pandas
+matplotlib
+
+# scikit learn
+scikit-learn
+
+# keras
+tensorflow
+keras

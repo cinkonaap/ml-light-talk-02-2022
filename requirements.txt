@@ -1,16 +1,5 @@
-# jupyter notebook
-jupyter
-
-# base
-pandas
-matplotlib
-
 # visualisation
 seaborn
 
-# scikit learn
-scikit-learn
-
-# keras
-
-
+# other
+sqlalchemy
