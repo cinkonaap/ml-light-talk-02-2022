@@ -33,3 +33,14 @@ Taken from https://www.kaggle.com/aleksandrglotov/car-prices-poland?select=Car_P
 - Scikit Learn: https://scikit-learn.org/stable/getting_started.html
 - Keras: https://keras.io/getting_started/
 - Seaborn: https://seaborn.pydata.org/
+
+### Images
+
+- Linear regression: https://i.stack.imgur.com/zoYKG.png
+- Logistic regression: https://miro.medium.com/max/725/0*tLu8lvAEomHZm2YK.png
+- Random forest: https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm2.png
+- Classification scoring metrics: https://www.researchgate.net/publication/336849041/figure/fig2/AS:818957984468994@1572266207473/Confusion-matrix-and-classification-metrics-terminology.ppm
+- Overfitting / underfitting: https://datascience.foundation/img/pdf_images/underfitting_and_overfitting_in_machine_learning_image.png
+- Neural network: https://1.cms.s81c.com/sites/default/files/2021-04-15/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png
+- Neural network example: https://pbs.twimg.com/media/ELEHKR8UEAAsIHt.jpg
+- Activation functions: https://qph.fs.quoracdn.net/main-qimg-65a7c3bf75549bad04875d0e789bb5bf
