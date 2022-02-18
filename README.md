@@ -34,6 +34,12 @@ Taken from https://www.kaggle.com/aleksandrglotov/car-prices-poland?select=Car_P
 - Keras: https://keras.io/getting_started/
 - Seaborn: https://seaborn.pydata.org/
 
+### Resources
+
+- kaggle: https://www.kaggle.com/
+- medium/towardsdatascience: https://towardsdatascience.com/
+- datacamp: https://datacamp.com
+- statquest yt: https://www.youtube.com/c/joshstarmer
 ### Images
 
 - Linear regression: https://i.stack.imgur.com/zoYKG.png
